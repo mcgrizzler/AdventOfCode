@@ -30,3 +30,5 @@ def partTwo(output):
 
 print(partOne(12, 2))
 print(partTwo(19690720))
+
+# :)
