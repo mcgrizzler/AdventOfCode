@@ -23,7 +23,6 @@ def drawWire(wire):
                 y -= 1
 
             positions.add((x, y))
-            print(positions)
     
     return positions
 
